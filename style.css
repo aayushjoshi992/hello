@@ -8,7 +8,7 @@
     width: 100%;
     display: flex;
     flex-wrap: wrap;
-    background-color: rgb(212, 212, 70);
+    background-color: red;
 }
 .full-name{
     height: 20px; 
